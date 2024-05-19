@@ -13,6 +13,8 @@ Rent it est une application web permettant aux utilisateurs de s'inscrire, de se
 - Consultation des voitures disponibles à la location.
 - Réservation de voitures en ligne.
 - Gestion des utilisateurs et des réservations par l'administrateur.
+- (pour vous connecter en tent que admin aller au footer de la page principal et cliquer sur admin----> nom:admin    pw: admin     )
+  
 
 ## Prérequis
 
